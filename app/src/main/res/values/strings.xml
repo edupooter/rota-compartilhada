@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rota Compartilhada</string>
+    <string name="large_text">
+        "Este é App para compartilhar sua Rota 10!\n\n"
+    </string>
+    <string name="entrar">Entrar</string>
+</resources>
